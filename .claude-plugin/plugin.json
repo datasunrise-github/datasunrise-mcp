@@ -1,0 +1,22 @@
+{
+  "name": "datasunrise",
+  "displayName": "DataSunrise",
+  "version": "12.3.2.31745",
+  "description": "Connect Claude Code to a DataSunrise Database Security Suite installation: downloads the matching MCP server from DataSunrise and registers it.",
+  "author": {
+    "name": "DataSunrise",
+    "url": "https://www.datasunrise.com"
+  },
+  "homepage": "https://www.datasunrise.com",
+  "repository": "https://github.com/datasunrise-github/datasunrise-mcp",
+  "license": "MIT",
+  "keywords": [
+    "datasunrise",
+    "database-security",
+    "audit",
+    "masking",
+    "data-discovery",
+    "firewall",
+    "mcp"
+  ]
+}

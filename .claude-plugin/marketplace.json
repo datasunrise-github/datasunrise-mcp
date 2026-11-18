@@ -1,0 +1,15 @@
+{
+  "name": "datasunrise",
+  "description": "DataSunrise plugins for Claude Code",
+  "owner": {
+    "name": "DataSunrise",
+    "url": "https://www.datasunrise.com"
+  },
+  "plugins": [
+    {
+      "name": "datasunrise",
+      "source": "./",
+      "description": "Operate a DataSunrise Database Security Suite installation from Claude Code"
+    }
+  ]
+}
